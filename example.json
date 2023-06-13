@@ -1,0 +1,95 @@
+{
+    "paging": {
+        "pageIndex": 1,
+        "pageSize": 500,
+        "total": 243
+    },
+    "components": [
+        {
+            "key": "address-service",
+            "name": "address-service",
+            "qualifier": "TRK",
+            "visibility": "private"
+        },
+        {
+            "key": "agen-microsite",
+            "name": "agen-microsite",
+            "qualifier": "TRK",
+            "visibility": "private"
+        },
+        {
+            "key": "agen-microsite-webview",
+            "name": "agen-microsite-webview",
+            "qualifier": "TRK",
+            "visibility": "private"
+        },
+        {
+            "key": "agen-service-account",
+            "name": "agen-service-account",
+            "qualifier": "TRK",
+            "visibility": "private",
+            "lastAnalysisDate": "2023-06-08T14:49:46+0700",
+            "revision": "83a1b8104121bbf7c3d9dbf2925a6a82e11ba6c5"
+        },
+        {
+            "key": "branch-service",
+            "name": "branch-service",
+            "qualifier": "TRK",
+            "visibility": "private"
+        },
+        {
+            "key": "webcorp-backend",
+            "name": "webcorp-backend",
+            "qualifier": "TRK",
+            "visibility": "public"
+        },
+        {
+            "key": "webcorp-cms",
+            "name": "webcorp-cms",
+            "qualifier": "TRK",
+            "visibility": "public"
+        },
+        {
+            "key": "Webcorp-FE",
+            "name": "Webcorp-FE",
+            "qualifier": "TRK",
+            "visibility": "public"
+        },
+        {
+            "key": "webcorp-frontend",
+            "name": "webcorp-frontend",
+            "qualifier": "TRK",
+            "visibility": "public"
+        },
+        {
+            "key": "web-corporate-fe",
+            "name": "web-corporate-fe",
+            "qualifier": "TRK",
+            "visibility": "public"
+        },
+        {
+            "key": "web-ecdd-dashboard",
+            "name": "web-ecdd-dashboard",
+            "qualifier": "TRK",
+            "visibility": "public"
+        },
+        {
+            "key": "web-ecdd-user",
+            "name": "web-ecdd-user",
+            "qualifier": "TRK",
+            "visibility": "public"
+        },
+        {
+            "key": "web-point",
+            "name": "web-point",
+            "qualifier": "TRK",
+            "visibility": "public"
+        },
+        {
+            "key": "working-capital",
+            "name": "working-capital",
+            "qualifier": "TRK",
+            "visibility": "public"
+        }
+    ]
+}
